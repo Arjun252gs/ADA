@@ -65,4 +65,4 @@ int main() {
     solveNQ(N);
 
     return 0;
-} // https://onecompiler.com/cpp/42dxarm74
+} // https://onecompiler.com/cpp/42dxarm74, https://onecompiler.com/cpp/42jfck4mk to print multiple solutions.
